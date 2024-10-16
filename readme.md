@@ -36,7 +36,7 @@ Make sure you have the following installed:
 3. **Run the Streamlit app:**
 
    ```bash
-   streamlit run insider_trading.py
+   streamlit run insider_trading_data_analysis.py
    ```
 
 4. **Access the app:**
