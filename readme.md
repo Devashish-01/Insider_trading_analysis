@@ -72,11 +72,11 @@ The uploaded CSV files must contain the following columns:
 
 ### Example CSV Data
 
-| COMPANY                              | CATEGORY OF PERSON    | TYPE OF SECURITY (PRIOR)    | MODE OF ACQUISITION    | VALUE OF SECURITY (ACQUIRED/DISPLOSED)    | ACQUISITION/DISPOSAL TRANSACTION TYPE     |
-|-----------------------------------------|-----------------------|-----------------------------|------------------------|-------------------------------------------|------------------------------------------|
-| XYZ Ltd                                 | Promoters             | Equity Shares               | Market Purchase        | 1000                                      | Buy                                      |
-| ABC Ltd                                 | Promoter Group        | Equity Shares               | Market Sale            | 500                                       | Sell                                     |
-| XYZ Ltd                                 | Promoters             | Equity Shares               | Market Purchase        | 2000                                      | Buy                                      |
+| COMPANY NAME                            | QUANTITY TRADED       |
+|-----------------------------------------|-----------------------|
+| XYZ Ltd                                 |  12,00,000            |
+| ABC Ltd                                 |  80,00,00             |
+| XYZ Ltd                                 |  -2,00,000            |
 
 ## License
 
