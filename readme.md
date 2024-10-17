@@ -18,6 +18,9 @@ Make sure you have the following installed:
 - Pandas
 - Matplotlib
 
+you can download insider_trading.csv file from website - https://www.nseindia.com/companies-listing/corporate-filings-insider-trading
+or we have an example csv file also in our repo you can use it for example purpose.
+
 ### Installation
 
 1. **Clone the repository:**
@@ -78,9 +81,6 @@ The uploaded CSV files must contain the following columns:
 | ABC Ltd                                 |  80,00,00             |
 | XYZ Ltd                                 |  -2,00,000            |
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 
